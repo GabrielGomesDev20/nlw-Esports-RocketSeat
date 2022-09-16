@@ -139,7 +139,7 @@ section{  /* Aspectos para colocar a suposta borda top nas sections */
 .container .ul-redesSociais li{ /* Espaçamento entre eles */
     padding-right: 20px;
 }
-
+/* comentario aleatorio meu fi */
 .container .ul-redesSociais .fa-twitter{ /* Cor do twitter */
     color: rgb(0,172,238);
 }
